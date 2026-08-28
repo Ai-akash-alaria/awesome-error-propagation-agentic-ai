@@ -183,10 +183,10 @@ Reliability in agentic research systems is a property of the full trajectory and
 
 Detailed descriptions, formats, and repository applications can be found in [`datasets/datasets.md`](datasets/datasets.md).
 
-- **ScholarQABench:** Expert-written scientific QA benchmark for literature synthesis and citation grounding[cite: 2].
-- **AgentErrorBench:** Trajectory dataset labeled with memory, planning, action, and reflection failure categories[cite: 2].
-- **BrowseComp:** Web browsing dataset for evaluating long-horizon search stability[cite: 2].
-- **PRM800K:** 800,000 step-level human feedback annotations for process reward modeling[cite: 2].
+- **ScholarQABench:** Expert-written scientific QA benchmark for literature synthesis and citation grounding.
+- **AgentErrorBench:** Trajectory dataset labeled with memory, planning, action, and reflection failure categories.
+- **BrowseComp:** Web browsing dataset for evaluating long-horizon search stability.
+- **PRM800K:** 800,000 step-level human feedback annotations for process reward modelling.
 
 ---
 
@@ -194,12 +194,12 @@ Detailed descriptions, formats, and repository applications can be found in [`da
 
 Detailed architectural details and usages are available in [`tools/tools.md`](tools/tools.md).
 
-- **ReAct Framework:** Closed-loop architecture interleaving reasoning traces and environment tool calls[cite: 2].
-- **SELF-RAG:** Adaptive retrieval and reflection engine using fine-grained critique tokens[cite: 2].
-- **OpenScholar:** Scientific paper synthesis engine with provenance-grounded citation generation[cite: 2].
-- **Tree-of-Thoughts (ToT):** Tree-based search engine supporting backtracking on error detection[cite: 2].
-- **Graph-of-Thoughts (GoT):** Arbitrary graph reasoning unit execution for LLM workflows[cite: 2].
-- **Reflexion:** Verbal reinforcement framework providing post-failure reflective memories[cite: 2].
+- **ReAct Framework:** Closed-loop architecture interleaving reasoning traces and environment tool calls.
+- **SELF-RAG:** Adaptive retrieval and reflection engine using fine-grained critique tokens.
+- **OpenScholar:** Scientific paper synthesis engine with provenance-grounded citation generation.
+- **Tree-of-Thoughts (ToT):** Tree-based search engine supporting backtracking on error detection.
+- **Graph-of-Thoughts (GoT):** Arbitrary graph reasoning unit execution for LLM workflows.
+- **Reflexion:** Verbal reinforcement framework providing post-failure reflective memories.
 
 ---
 
@@ -207,11 +207,11 @@ Detailed architectural details and usages are available in [`tools/tools.md`](to
 
 Detailed codebase links and repository descriptions can be found in [`implementations/github-repositories.md`](implementations/github-repositories.md).
 
-- [`princeton-nlp/ReAct`](https://github.com/princeton-nlp/ReAct): Official ReAct execution loop implementation[cite: 2].
-- [`AkariAsai/self-rag`](https://github.com/AkariAsai/self-rag): Self-RAG training and critique token generation engine[cite: 2].
-- [`princeton-nlp/tree-of-thought-llm`](https://github.com/princeton-nlp/tree-of-thought-llm): ToT search algorithm codebase[cite: 2].
-- [`spcl/graph-of-thoughts`](https://github.com/spcl/graph-of-thoughts): Executable Graph-of-Thoughts reasoning engine[cite: 2].
-- [`openai/prm800k`](https://github.com/openai/prm800k): Step-level process reward model dataset and evaluation routines[cite: 2].
+- [`princeton-nlp/ReAct`](https://github.com/princeton-nlp/ReAct): Official ReAct execution loop implementation.
+- [`AkariAsai/self-rag`](https://github.com/AkariAsai/self-rag): Self-RAG training and critique token generation engine.
+- [`princeton-nlp/tree-of-thought-llm`](https://github.com/princeton-nlp/tree-of-thought-llm): ToT search algorithm codebase.
+- [`spcl/graph-of-thoughts`](https://github.com/spcl/graph-of-thoughts): Executable Graph-of-Thoughts reasoning engine.
+- [`openai/prm800k`](https://github.com/openai/prm800k): Step-level process reward model dataset and evaluation routines.
 
 ---
 
@@ -220,11 +220,11 @@ Detailed codebase links and repository descriptions can be found in [`implementa
 1. **Prompt Engineering & Agentic Workflows (DeepLearning.AI):** Foundational instruction on multi-agent execution, planning, and memory architectures.
 2. **LangChain & LlamaIndex Production Documentation:** Architectural guides for implementing state verification, fallback chains, and tool routing.
 3. **ICLR Tutorials on Autonomous Agent Evaluation:** Lecture series covering multi-turn evaluation, trajectory analysis, and safety guardrails.
-4. **OpenAI Guide to Process Supervision:** Technical documentation detailing step-level verifier training versus outcome reward models[cite: 2].
-5. **ArXiv Computer Science & Agent Trajectory Auditing:** Literature hub for tracking state-of-the-art developments in multi-step LLM debugging[cite: 2].
+4. **OpenAI Guide to Process Supervision:** Technical documentation detailing step-level verifier training versus outcome reward models.
+5. **ArXiv Computer Science & Agent Trajectory Auditing:** Literature hub for tracking state-of-the-art developments in multi-step LLM debugging.
 
 ---
 
 ## License
 
-This repository is released under the terms of the [MIT License](LICENSE)[cite: 1].
+This repository is released under the terms of the [MIT License](LICENSE).
