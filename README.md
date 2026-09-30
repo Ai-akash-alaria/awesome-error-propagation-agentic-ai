@@ -1,4 +1,4 @@
-# Error Propagation in Multi-Step Agentic AI Workflows for Research Autoamtion
+# Error Propagation in Multi-Step Agentic AI Workflows for Research Automation
 
 A curated collection of research papers, benchmark datasets, process supervision tools, and open-source implementations focused on cascading failure mitigation, trajectory debugging, and reliability engineering in agentic AI research automation.
 
