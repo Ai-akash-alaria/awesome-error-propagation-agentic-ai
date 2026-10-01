@@ -34,7 +34,7 @@ Reliability in agentic research systems is a property of the full trajectory and
 
 - **Title:** Error Propagation in Multi-Step Agentic AI Workflows for Research Automation: Mechanisms, Metrics, Mitigation, and Research Directions
 - **Author:** Akash Alaria
-- **Document:** [Read Paper PDF](paper/AI_Assisted_Research_Paper.pdf)
+- **Document:** [Read Paper PDF](paper/Error_Propagation_in_Multi_Step_Agentic_AI_Workflows_for_Research_Automation.pdf)
 - **Abstract Summary:** This paper establishes a formal probabilistic framework for understanding error propagation across agentic research pipelines. It categorizes four distinct propagation channels—semantic, structural, evidential, and operational—and evaluates current mitigations including ReAct closed loops, Self-RAG, process supervision, verifier models, and tree/graph search spaces.
 
 ---
